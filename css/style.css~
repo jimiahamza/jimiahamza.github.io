@@ -363,7 +363,7 @@ header h1 a img {
 
 .blocks .clear {
     height: 112px;
-	width: 1012px;
+	width: 112px;
 }
 
 .main_color {
